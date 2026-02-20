@@ -46,13 +46,13 @@ This project simulates a **remote ISO/IEC 27001 assessment** conducted for a UK-
 | R005    | Employee Laptops        | Malware             | Outdated AV                | 4          | 4      | 16          | High       | Antivirus         | Update AV daily; endpoint monitoring | IT Manager         |
 | R006    | File Server             | Unauthorized Access | Weak permissions           | 3          | 5      | 15          | Medium     | ACLs              | Review permissions quarterly         | IT Manager         |
 | R007    | CRM Platform            | Insider Threat      | No monitoring              | 2          | 5      | 10          | Medium     | Audit logs        | Implement real-time monitoring       | Compliance Officer |
-| R008    | Customer Financial DB   | Ransomware          | No offline backup          | 4          | 5      | 20          | High       | Cloud backup      | Offline encrypted backup             | IT Manager         |
+| R008    | Customer Financial Database   | Ransomware          | No offline backup          | 4          | 5      | 20          | High       | Cloud backup      | Offline encrypted backup             | IT Manager         |
 | R009    | Employee Laptops        | Lost Device         | No encryption              | 3          | 4      | 12          | Medium     | Disk encryption   | Full disk encryption; remote wipe    | IT Manager         |
 | R010    | Microsoft 365           | Phishing            | No training                | 3          | 4      | 12          | Medium     | Email filters     | Phishing awareness training          | IT Manager         |
-| R011    | Financial Reporting Sys | Compliance Failure  | Missing policy             | 2          | 5      | 10          | Medium     | Existing SOPs     | Implement formal policies            | Compliance Officer |
+| R011    | Financial Reporting System | Compliance Failure  | Missing policy             | 2          | 5      | 10          | Medium     | Existing SOPs     | Implement formal policies            | Compliance Officer |
 | R012    | File Server             | Hardware Failure    | No redundancy              | 3          | 3      | 9           | Medium     | Daily backup      | Implement RAID / redundancy          | IT Manager         |
 | R013    | CRM Platform            | Data Leakage        | Third-party access         | 3          | 4      | 12          | Medium     | Contracts         | Supplier NDAs & access review        | Compliance Officer |
-| R014    | Customer Financial DB   | Insider Threat      | Privileged misuse          | 3          | 5      | 15          | Medium     | Audit logs        | Monitor privileged users             | IT Manager         |
+| R014    | Customer Financial Database   | Insider Threat      | Privileged misuse          | 3          | 5      | 15          | Medium     | Audit logs        | Monitor privileged users             | IT Manager         |
 | R015    | Employee Laptops        | Unpatched OS        | Vulnerability exploitation | 4          | 4      | 16          | High       | Patch management  | Automate OS patching                 | IT Manager         |
 
 Likelihood (1-5),  Impact (1-5),  Risk Rating (Likelihood x Impact, formula included),  Risk Level (High/Medium/Low, formula included) 
