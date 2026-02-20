@@ -22,7 +22,7 @@ This project simulates a **remote ISO/IEC 27001 assessment** conducted for a UK-
 - Policy drafting for SME-specific compliance
 - Consultancy-style project documentation and reporting
 
-** 2.2 Assessment Methodology**
+## 2.2 Assessment Methodology
 
 - Asset Identification: Catalogued all critical business assets.
 
@@ -35,7 +35,7 @@ This project simulates a **remote ISO/IEC 27001 assessment** conducted for a UK-
 - Recommendations: Developed a roadmap for remediation and ISO27001 readiness.
  ** The assessment was conducted remotely, including documentation review, stakeholder interviews, and system inspections.**
 
-**3. Risk Register**
+## 3.0 Risk Register
 
 | Risk ID | Asset                   | Threat              | Vulnerability              | Likelihood | Impact | Risk Rating | Risk Level | Existing Controls | Mitigation Actions                   | Owner              |
 | ------- | ----------------------- | ------------------- | -------------------------- | ---------- | ------ | ----------- | ---------- | ----------------- | ------------------------------------ | ------------------ |
@@ -57,7 +57,7 @@ This project simulates a **remote ISO/IEC 27001 assessment** conducted for a UK-
 
 Likelihood (1-5),  Impact (1-5),  Risk Rating (Likelihood x Impact, formula included),  Risk Level (High/Medium/Low, formula included) 
 
-**4 Gap Assessment Findings**
+## 4.0 Gap Assessment Findings
 | Area                | Observation                          | Gap / Risk                      | Risk Level | Recommendation                                         |
 | ------------------- | ------------------------------------ | ------------------------------- | ---------- | ------------------------------------------------------ |
 | Governance          | Roles defined but not communicated   | Partial governance framework    | Medium     | Communicate roles; assign security responsibilities    |
@@ -71,7 +71,7 @@ Likelihood (1-5),  Impact (1-5),  Risk Rating (Likelihood x Impact, formula incl
 
 **Total Risks Identified: 15 (High: 5, Medium: 7, Low: 3)**
 
-**4 Annex A Mapping**
+## 5.0 Annex A Mapping
 
 | Control ID | Control Name             | Objective                  | Current Status  | Gap Description                  | Risk IDs Linked | Remediation Action              | Owner              |
 | ---------- | ------------------------ | -------------------------- | --------------- | -------------------------------- | --------------- | ------------------------------- | ------------------ |
@@ -83,15 +83,15 @@ Likelihood (1-5),  Impact (1-5),  Risk Rating (Likelihood x Impact, formula incl
 | A.16.1     | Incident Management      | Respond to incidents       | Partial         | Incident plan untested           | R003,R008       | Test incident response plan     | IT Manager         |
 
  
-# 5 Information Security Policy – Financial Services SME
+# 6.0 Information Security Policy – Financial Services SME
 
-## 5.1  Purpose
+## 6.1  Purpose
 Protect confidentiality, integrity, and availability of financial and personal data.
 
-## 5.2 Scope
+## 6.2 Scope
 Applies to all employees, contractors, and IT systems.
 
-## 5.3 Key Policies
+## 6.3 Key Policies
 - **Access control:** Unique user IDs, MFA, least privilege, quarterly review
 - **Risk management:** Annual assessment, documented risk register
 - **Incident management:** Report within 24h; ICO notification within 72h
@@ -99,7 +99,7 @@ Applies to all employees, contractors, and IT systems.
 - **Business continuity**: Daily backups, defined RTO/RPO, annual test
 - **Compliance:** Aligns with ISO 27001, UK GDPR, FCA guidance
 
-  **6.0 Recommendations & Roadmap (12 months)**
+# 7.0 Recommendations & Roadmap (12 months)
 
 ## Short-term (0-3 Months)
 - Formalise ISMS governance and communicate roles
@@ -116,8 +116,5 @@ Applies to all employees, contractors, and IT systems.
 - Conduct ISO27001 Stage 1 readiness review
 - Finalise all policies and training programs
   ---
-  # 7.0 Executive Summary
-
-Remote ISO/IEC 27001 assessment identified gaps in governance, risk management, access control, supplier security, and business continuity.
-
-Recommendations focus on implementing formal ISMS practices and preparing the SME for ISO 27001 certification.
+# 8.0 Executive Summary
+- Remote ISO/IEC 27001 assessment identified gaps in governance, risk management, access control, supplier security, and business continuity. Recommendations focus on implementing formal ISMS practices and preparing the SME for ISO 27001 certification.
