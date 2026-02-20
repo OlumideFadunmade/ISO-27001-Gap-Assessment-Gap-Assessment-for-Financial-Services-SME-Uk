@@ -82,24 +82,7 @@ Likelihood (1-5),  Impact (1-5),  Risk Rating (Likelihood x Impact, formula incl
 | A.12.6     | Vulnerability Management | Manage vulnerabilities     | Partial         | Laptops unpatched                | R015            | Automate patch management       | IT Manager         |
 | A.16.1     | Incident Management      | Respond to incidents       | Partial         | Incident plan untested           | R003,R008       | Test incident response plan     | IT Manager         |
 
- 
-## 6.0 Information Security Policy – Financial Services SME
-
-## 6.1  Purpose
-To ensure the confidentiality, integrity, and availability of company information and comply with ISO27001 standards.
-
-## 6.2 Scope
-Applies to all employees, contractors, and third-party service providers accessing organisational information assets.
-
-## 6.3 Key Policies
-- **Access control:** Unique user IDs, MFA, least privilege, quarterly review
-- **Risk management:** Annual assessment, documented risk register
-- **Incident management:** Report within 24h; ICO notification within 72h
-- **Supplier security**: Due diligence, DPAs, annual review
-- **Business continuity**: Daily backups, defined RTO/RPO, annual test
-- **Compliance:** Aligns with ISO 27001, UK GDPR, FCA guidance
-
-## 7.0 Recommendations & Roadmap (12 months)
+## 6.0 Recommendations & Roadmap (12 months)
 
 ## Short-term (0-3 Months)
 - Formalise ISMS governance and communicate roles
@@ -116,6 +99,6 @@ Applies to all employees, contractors, and third-party service providers accessi
 - Conduct ISO27001 Stage 1 readiness review
 - Finalise all policies and training programs
   
-## 8.0 Executive Summary
+## 7.0 Executive Summary
 
 - Remote ISO/IEC 27001 assessment identified gaps in governance, risk management, access control, supplier security, and business continuity. Recommendations focus on implementing formal ISMS practices and preparing the SME for ISO 27001 certification.
